@@ -1,0 +1,597 @@
+Privacy Policy
+
+Almac - AI Memory for All Agents
+
+Effective Date: March 29, 2026
+Last Updated: March 29, 2026
+
+1. Introduction
+
+Almac ("Company," "we," "us," or "our") operates the Almac platform (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Service, including any related applications, websites, and services that link to this Privacy Policy (collectively, the "Services").
+
+We are committed to protecting your privacy and ensuring you have a positive experience on our platform. Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our Services.
+
+2. Information We Collect
+
+2.1 Information You Provide Directly
+
+Account Registration Information:
+
+•
+Email address
+
+•
+Password (encrypted)
+
+•
+Full name
+
+•
+Phone number (for 2FA and phone verification)
+
+•
+Profile information
+
+Authentication Information:
+
+•
+Google OAuth credentials (email, name, profile picture)
+
+•
+Phone number verification codes
+
+•
+Two-factor authentication (2FA) data
+
+API Usage Information:
+
+•
+API keys and their metadata
+
+•
+API call logs and timestamps
+
+•
+Memory storage data
+
+•
+Metadata associated with stored memories
+
+Billing Information:
+
+•
+Payment method details (processed by Stripe)
+
+•
+Billing address
+
+•
+Invoice history
+
+•
+Subscription plan information
+
+Communication Information:
+
+•
+Support tickets and inquiries
+
+•
+Email communications
+
+•
+Feedback and survey responses
+
+2.2 Information Collected Automatically
+
+Usage Data:
+
+•
+IP address
+
+•
+Browser type and version
+
+•
+Operating system
+
+•
+Pages visited and time spent
+
+•
+Referral source
+
+•
+Device identifiers
+
+Cookies and Tracking Technologies:
+
+•
+Session cookies
+
+•
+Authentication tokens
+
+•
+Analytics cookies (if enabled)
+
+•
+Local storage data
+
+API Metrics:
+
+•
+API endpoint usage
+
+•
+Response times
+
+•
+Error logs
+
+•
+Token usage statistics
+
+2.3 Phone Number and SMS Data
+
+When you provide your phone number for 2FA or phone verification:
+
+•
+Your phone number is stored securely in our Supabase PostgreSQL database
+
+•
+SMS verification codes are sent via Twilio
+
+•
+We do not store SMS message content
+
+•
+Verification codes expire after a set time period
+
+•
+Your phone number is used only for authentication and account security purposes
+
+3. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+3.1 Service Delivery
+
+•
+Creating and maintaining your account
+
+•
+Processing API requests and memory storage
+
+•
+Providing customer support
+
+•
+Sending transactional emails (confirmations, receipts, etc.)
+
+3.2 Authentication and Security
+
+•
+Verifying your identity
+
+•
+Implementing two-factor authentication (2FA)
+
+•
+Detecting and preventing fraud
+
+•
+Securing your account
+
+•
+Enforcing our Terms of Service
+
+3.3 Communication
+
+•
+Sending service updates and announcements
+
+•
+Responding to your inquiries
+
+•
+Providing technical support
+
+•
+Notifying you of changes to our policies
+
+3.4 Analytics and Improvement
+
+•
+Analyzing usage patterns
+
+•
+Improving our Services
+
+•
+Developing new features
+
+•
+Understanding user behavior
+
+•
+Conducting research
+
+3.5 Legal Compliance
+
+•
+Complying with legal obligations
+
+•
+Responding to lawful requests from authorities
+
+•
+Protecting our legal rights
+
+•
+Enforcing agreements
+
+4. Data Storage and Security
+
+4.1 Data Storage
+
+•
+All personal data is stored in Supabase PostgreSQL database
+
+•
+Database is encrypted at rest
+
+•
+All data transfers use HTTPS/TLS encryption
+
+•
+Backups are maintained for disaster recovery
+
+4.2 Phone Number Storage
+
+•
+Phone numbers are stored in encrypted format
+
+•
+Access is restricted to authorized personnel only
+
+•
+Phone numbers are never shared with third parties except Twilio for SMS delivery
+
+•
+Phone verification data is retained for 90 days after verification
+
+4.3 Security Measures
+
+•
+Industry-standard encryption protocols
+
+•
+Regular security audits
+
+•
+Access controls and authentication
+
+•
+Intrusion detection systems
+
+•
+Regular backups and disaster recovery procedures
+
+4.4 Data Retention
+
+•
+Account data is retained as long as your account is active
+
+•
+Deleted accounts are purged within 30 days
+
+•
+API logs are retained for 90 days
+
+•
+Billing records are retained for 7 years (legal requirement)
+
+•
+Phone verification codes are retained for 24 hours
+
+5. Third-Party Services
+
+5.1 Supabase
+
+•
+Database hosting and management
+
+•
+Authentication infrastructure
+
+•
+Data storage and backup
+
+•
+Supabase Privacy Policy
+
+5.2 Twilio
+
+•
+SMS delivery for phone verification and 2FA
+
+•
+Phone number verification services
+
+•
+We do not store SMS content on our servers
+
+•
+Twilio Privacy Policy
+
+5.3 Google OAuth
+
+•
+OAuth authentication provider
+
+•
+Email and profile information retrieval
+
+•
+Google Privacy Policy
+
+5.4 Stripe
+
+•
+Payment processing
+
+•
+Billing and subscription management
+
+•
+Stripe Privacy Policy
+
+5.5 Manus Platform
+
+•
+OAuth authentication (if used)
+
+•
+Platform infrastructure
+
+•
+Manus Privacy Policy
+
+6. Your Rights and Choices
+
+6.1 Access and Portability
+
+You have the right to:
+
+•
+Access your personal data
+
+•
+Receive a copy of your data in a portable format
+
+•
+Request information about how your data is used
+
+6.2 Correction and Deletion
+
+You have the right to:
+
+•
+Correct inaccurate information
+
+•
+Request deletion of your data
+
+•
+Request anonymization of your data
+
+6.3 Opt-Out
+
+You can:
+
+•
+Disable 2FA if desired (not recommended)
+
+•
+Opt out of marketing communications
+
+•
+Disable analytics tracking
+
+6.4 Data Portability
+
+You can request to export your data in standard formats (JSON, CSV) at any time.
+
+7. GDPR and CCPA Compliance
+
+7.1 GDPR (European Users)
+
+If you are located in the European Union, you have additional rights under GDPR:
+
+•
+Right to be informed
+
+•
+Right of access
+
+•
+Right to rectification
+
+•
+Right to erasure ("right to be forgotten")
+
+•
+Right to restrict processing
+
+•
+Right to data portability
+
+•
+Right to object
+
+•
+Rights related to automated decision-making
+
+Data Protection Officer Contact: privacy@almac.io
+
+7.2 CCPA (California Users)
+
+If you are a California resident, you have rights under CCPA:
+
+•
+Right to know what personal information is collected
+
+•
+Right to know whether personal information is sold or disclosed
+
+•
+Right to opt-out of the sale or sharing of personal information
+
+•
+Right to delete personal information collected from you
+
+•
+Right to correct inaccurate personal information
+
+•
+Right to limit use and disclosure of sensitive personal information
+
+To exercise CCPA rights: privacy@almac.io
+
+8. Children's Privacy
+
+Our Services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected information from a child under 13, we will delete such information immediately.
+
+9. International Data Transfers
+
+Your information may be transferred to, stored in, and processed in countries other than your country of residence. These countries may have data protection laws that differ from your home country. By using our Services, you consent to the transfer of your information to countries outside your country of residence, which may have different data protection rules.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. We will notify you of any material changes by posting the new Privacy Policy on our website and updating the "Last Updated" date above.
+
+Your continued use of our Services after any modifications to this Privacy Policy constitutes your acceptance of the updated terms.
+
+11. Contact Us
+
+If you have questions about this Privacy Policy or our privacy practices, please contact us at:
+
+Email: privacy@almac.io
+Website: https://almac.io
+Mailing Address:
+Almac
+Privacy Team
+[Your Address]
+
+Data Protection Officer: privacy@almac.io
+
+12. Specific Information About Twilio 2FA
+
+12.1 How Twilio 2FA Works
+
+When you enable two-factor authentication via SMS:
+
+1.
+You provide your phone number during account setup
+
+2.
+When you log in, we send a verification code via Twilio
+
+3.
+You enter the code to complete authentication
+
+4.
+The code is verified and your session is established
+
+12.2 Phone Number Usage
+
+•
+Your phone number is used exclusively for sending verification codes
+
+•
+We do not use your phone number for marketing or other purposes
+
+•
+Your phone number is not shared with any third parties except Twilio
+
+•
+You can remove your phone number and disable 2FA at any time
+
+12.3 SMS Message Privacy
+
+•
+SMS messages are sent by Twilio on our behalf
+
+•
+Message content is limited to verification codes
+
+•
+Messages are not stored on our servers after delivery
+
+•
+Twilio may retain logs for security and compliance purposes
+
+12.4 Costs
+
+•
+Standard SMS rates may apply depending on your phone carrier
+
+•
+We do not charge for 2FA verification
+
+•
+Your carrier may charge for receiving SMS messages
+
+12.5 Opting Out
+
+You can disable SMS 2FA at any time from your account settings. However, we recommend keeping 2FA enabled for security.
+
+13. California Privacy Rights
+
+California Consumer Privacy Act (CCPA ) Disclosures:
+
+In the past 12 months, we have collected the following categories of personal information:
+
+•
+Identifiers (name, email, phone number, IP address)
+
+•
+Commercial information (API usage, billing history)
+
+•
+Internet activity (browsing history, cookies, usage logs)
+
+•
+Geolocation data (inferred from IP address)
+
+•
+Professional information (company affiliation if provided)
+
+•
+Authentication data (passwords, OAuth tokens)
+
+We do not sell personal information. We may disclose information to service providers for business purposes.
+
+14. Additional Information
+
+14.1 Security Incidents
+
+In the event of a security breach affecting personal information, we will notify affected users as required by law within 30 days of discovery.
+
+14.2 Third-Party Links
+
+Our Services may contain links to third-party websites. We are not responsible for the privacy practices of external sites. Please review their privacy policies before providing information.
+
+14.3 Do Not Track
+
+Some browsers include a "Do Not Track" feature. Currently, there is no industry standard for recognizing Do Not Track signals, and we do not respond to such signals.
+
+
+
+
+Last Updated: March 29, 2026
+Version: 1.0
+
+For the most current version of this Privacy Policy, visit: https://github.com/almac/privacy-policy
+
